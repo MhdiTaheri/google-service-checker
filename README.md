@@ -42,7 +42,7 @@ Confidence: 87%
 ## نصب
 
 ```bash
-git clone https://github.com/MhdiTaheri/google-region-checker.git
+git clone https://github.com/MhdiTaheri/google-service-checker.git
 cd google-region-checker
 pip install -r requirements.txt
 ```
