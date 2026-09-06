@@ -43,7 +43,7 @@ Confidence: 87%
 
 ```bash
 git clone https://github.com/MhdiTaheri/google-service-checker.git
-cd google-region-checker
+cd google-service-checker
 pip install -r requirements.txt
 ```
 
